@@ -242,6 +242,7 @@ FLOWS = [
     "vesync",
     "vilfo",
     "vizio",
+    "vlc_telnet",
     "volumio",
     "wemo",
     "wiffi",
