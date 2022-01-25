@@ -4,6 +4,7 @@
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/glinet",
   "requirements": ["gli_py==0.0.12"],
+  "version": "0.0.2",
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
